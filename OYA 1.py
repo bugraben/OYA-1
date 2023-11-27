@@ -37,12 +37,12 @@ filePaths = {
     "Ülkü " : "./files/ulku.png",
     "Yalın " : "./files/yalin.png",
     "Yiğit " : "./files/yigit.png",
-    "Demiryapan " : "./files/demiryapan.png",
-    "Sert " : "./files/sert.png",
+    "Demir " : "./files/demir.png",
+    "Sertap " : "./files/sertap.png",
     "Yusuf " : "./files/yusuf.png",
     "Eylül " : "./files/eylul.png",
     "Sare " : "./files/sare.png",
-    "Zeynep T " : "./files/zeynep.png",
+    "Zeynep " : "./files/zeynep.png",
 }
 
 notInClass = list(filePaths.keys())
